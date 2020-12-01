@@ -2,7 +2,7 @@
 title: "My Website"
 ---
 
-Hello everyone! Welcome to my website. My name is Andrea and I'm currently a senior undergraduate studying microbiology at UMass Amherst! Check out the About tab to check out some more info on me!
+Hello everyone! Welcome to my website. My name is Andrea and I'm currently a senior undergraduate studying microbiology at UMass Amherst! Check out the About Me tab to check out some more info on me!
 
 ![](/Users/andreadame/anaconda3/Applications/EvoGenomics/Andrea's Website/mutants.png)
 
