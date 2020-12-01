@@ -1,0 +1,10 @@
+---
+title: "EvoGenLab"
+author: "Andrea Dame"
+date: "11/30/2020"
+output: html_document
+---
+
+# The link below will bring you to my genomics course website! 
+
+https://adame101.github.io/evogenomics-course/
