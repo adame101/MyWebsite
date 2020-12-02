@@ -5,6 +5,6 @@ date: "11/30/2020"
 output: html_document
 ---
 
-The link below will bring you to my evolutionary genomics course website! 
+The link below will bring you to my 697 evolutionary genomics course website! 
 
 https://adame101.github.io/evogenomics-course/
